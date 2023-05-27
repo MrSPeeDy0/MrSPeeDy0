@@ -45,9 +45,3 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/MrSPeeDy0">
-    <img src="https://komarev.com/ghpvc/?username=MrSPeeDy0&color=blue&style=flat)" />
-  </a>
-</p>
