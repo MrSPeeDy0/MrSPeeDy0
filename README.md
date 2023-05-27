@@ -30,7 +30,6 @@
  
  My favorite editor is [VS Code](https://code.visualstudio.com/)
 
-<language>
 <p align="center">
     <a href="https://www.lua.org/">
      <img width="100px"
@@ -46,8 +45,6 @@
      <img width="60px"
       <img alt="Markdown" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-markdown.png?raw=true" />
     </a>
- </p>
-</language>
  
 <details>
 <p align="center">
