@@ -27,7 +27,7 @@
 *  📂 Roblox scripter
 *  :accessibility: I can script on roblox but I'm still studying lua
  
- My favorite lua editor is [VS Code](https://code.visualstudio.com/)
+ My favorite editor is [VS Code](https://code.visualstudio.com/)
 
 <table><tr>
     <a href="https://github.com/MrSPeeDy0/">
