@@ -4,23 +4,7 @@
  <h2 align="center">MrSPeeDy0</h2>
  <p align="center">I'm MrSPeeDy0.
         Currently learning Lua.
-</p>
-<p align="center">
-    <a href="https://www.lua.org/">
-     <img width="100px"
-      <img alt="Lua" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
-    </a>
- <p align="center">
-    <a href="https://www.python.org/">
-     <img width="50px"
-      <img alt="Markdown" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-python.png?raw=true" />
-    </a>
-<p align="center">
-    <a href="https://www.markdownguide.org/">
-     <img width="60px"
-      <img alt="Markdown" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-markdown.png?raw=true" />
-    </a>
-
+  </p>
 ### I'm MrSPeeDy0 (Ultra)
 
 *  🧑 19 y/o
