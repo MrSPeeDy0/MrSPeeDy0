@@ -1,8 +1,8 @@
-<p align="center">
+<p align="top">
  <a href="https://github.com/MrSPeeDy0/">
  <img width="100px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-proflie.png?raw=true" align="center" alt="MrSPeeDy0" />
- <h2 align="center">MrSPeeDy0</h2>
- <p align="center">Hello world, welcome to my profile!</p>
+ <h2 align="top">MrSPeeDy0</h2>
+ <p align="top">Hello world, welcome to my profile!</p>
 </p>
 <p align="center">
     <a href="https://www.lua.org/">
