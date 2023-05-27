@@ -2,8 +2,8 @@
  <a href="https://github.com/MrSPeeDy0/">
  <img width="100px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-proflie.png?raw=true" align="center" alt="MrSPeeDy0" />
  <h2 align="center">MrSPeeDy0</h2>
- <p align="center">Welcome to my profile.
-        Currently learning Lua.
+  <h2 align="center">Welcome to my page!</h2>
+ <p align="center">Currently learning Lua.
   </p>
   
 ### I'm MrSPeeDy0 (Ultra)
