@@ -3,8 +3,7 @@
  <img width="100px" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-proflie.png?raw=true" align="center" alt="MrSPeeDy0" />
  <h2 align="center">MrSPeeDy0</h2>
  <p align="center">I'm MrSPeeDy0.
-        Currently learning Lua.
-  </p>
+        Currently learning Lua.</p>
 ### I'm MrSPeeDy0 (Ultra)
 
 *  🧑 19 y/o
