@@ -9,7 +9,7 @@
      <img width="100px"
       <img alt="Lua" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
     </a>
-<p align="center">
+<p align="top">
  <p align="right">
     <a href="https://www.markdownguide.org/">
      <img width="50px"
