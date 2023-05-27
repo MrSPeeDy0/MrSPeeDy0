@@ -47,7 +47,7 @@
       <img alt="Markdown" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-markdown.png?raw=true" />
     </a>
  </p>
-<language>
+</language>
  
 <details>
 <p align="center">
