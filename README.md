@@ -18,7 +18,7 @@
 <p align="top">
  <p align="right">
     <a href="https://www.markdownguide.org/">
-     <img width="50px"
+     <img width="60px"
       <img alt="Markdown" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-markdown.png?raw=true" />
     </a>
 
