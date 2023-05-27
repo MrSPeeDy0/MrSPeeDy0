@@ -11,6 +11,7 @@
 *  🧑 19 y/o
 *  ✝️ Christian
 *  📂 Roblox scripter
+*  ✔️ Currently in the US
 *  ✏️ My favorite editor is [VS Code](https://code.visualstudio.com/)
 
 <p align="center">
