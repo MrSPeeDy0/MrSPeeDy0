@@ -2,7 +2,8 @@
 
 ### I'm MrSPeeDy0 (Ultra)
 
-*  and I can script on roblox
+*  I can script on roblox
+*  I'm still studying lua
 *  You can borrow a picture uploaded on DS-images but ask for permission from my discord first
 SPeeDy#3526
 <table><tr>
