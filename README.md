@@ -6,14 +6,12 @@
         Currently learning Lua.
   </p>
   
-* I'm MrSPeeDy0 (Ultra)
+### I'm MrSPeeDy0 (Ultra)
 
 *  🧑 19 y/o
 *  ✝️ Christian
 *  📂 Roblox scripter
-*  :accessibility: I can script on roblox but I'm still studying lua
- 
- My favorite editor is [VS Code](https://code.visualstudio.com/)
+*  ✏️ My favorite editor is [VS Code](https://code.visualstudio.com/)
 
 <p align="center">
     <a href="https://www.lua.org/">
