@@ -25,6 +25,8 @@
  My favorite lua editor is [VS Code](https://code.visualstudio.com/)
 
 <table><tr>
-    <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=MrSPeeDy0&show_icons=true&hide_title=true&hide_border=true"></a></td>
+    <a href="https://github.com/MrSPeeDy0/">
+ <td width="30%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api?username=MrSPeeDy0&show_icons=true&hide_title=true&hide_border=true"></a></td>
+     <a href="https://github.com/MrSPeeDy0/">
     <td width="20%" align="center"><a href="#/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&layout=compact&hide_title=true&hide_border=true"></a></td>
 </tr></table>
