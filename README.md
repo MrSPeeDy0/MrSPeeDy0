@@ -30,19 +30,3 @@
       <img alt="Markdown" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-markdown.png?raw=true" />
     </a>
  
-<details>
-<p align="center">
-  <a href="https://github.com/MrSPeeDy0">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSPeeDy0&theme=transparent" />
-  </a>
-  <a href="https://github.com/MrSPeeDy0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSPeeDy0&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/MrSPeeDy0">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSPeeDy0&theme=transparent" />
-  </a>
-  <a href="https://github.com/MrSPeeDy0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
