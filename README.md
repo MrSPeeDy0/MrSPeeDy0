@@ -41,8 +41,7 @@
   <a href="https://github.com/MrSPeeDy0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSPeeDy0&theme=transparent" />
   </a>
-  <a href="https://github.com/MrSPeeDy0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MrSPeeDy010&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=My%20Most%20Used%20Languages)
   </a>
 </p>
 </details>
