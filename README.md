@@ -41,8 +41,8 @@
   <a href="https://github.com/MrSPeeDy0">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrSPeeDy0&theme=transparent" />
   </a>
-<a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
+<a href="https://github.com/MrSPeeDy0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
