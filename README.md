@@ -21,8 +21,6 @@
 <a href="https://github.com/MrSPeeDy0">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
 </a>
- <iframe src="https://rf.revolvermaps.com/0/0/8.js?i=57fkh21n8tz&m=0&c=ff0000&cr1=ffffff&f=arial&l=33" width="600" height="400" scrolling="no" frameborder="0"></iframe>
-  </p>
   <p align="center">
     <a href="https://www.lua.org/">
      <img width="100px"
