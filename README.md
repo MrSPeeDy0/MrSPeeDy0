@@ -22,17 +22,17 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
 </a>
    <h2 align="center">     </h2>
-  <p align="left">
+  <p align="center">
     <a href="https://www.lua.org/">
      <img width="100px"
       <img alt="Lua" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" />
     </a>
- <p align="right">
+ <p align="center">
     <a href="https://www.python.org/">
      <img width="50px"
       <img alt="Python" src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-python.png?raw=true" />
     </a>
-   <p align="bottom">
+   <p align="center">
     <a href="https://github.com/MrSPeeDy0/">
      <img width="50px"
       <img alt="Batch File" src="https://github.com/MrSPeeDy0/Batch-files-win-11/blob/main/Assets/Images/bat-file.png?raw=true" />
