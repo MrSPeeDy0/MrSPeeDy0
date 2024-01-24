@@ -21,7 +21,7 @@
 <a href="https://github.com/MrSPeeDy0">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSPeeDy0&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
 </a>
- ### -------
+   <h2 align="center">     </h2>
   <p align="center">
     <a href="https://www.lua.org/">
      <img width="100px"
