@@ -5,9 +5,6 @@
   <h2 align="center">Welcome to my profile!</h2>
  <p align="center">Currently learning C++
   </p>
-  <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MrSPeeDy0.MrSPeeDy0" alt="Visitors"/>
-</p>
   
 ### I'm MrSPeeDy0 (Ultra)
 
