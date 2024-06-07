@@ -8,11 +8,12 @@
   
 ### I'm MrSPeeDy0 (Ultra)
 
-*  🧑 20 y/o
+*  🧑 17 y/o
 *  ✝️ Christian
-*  📂 Roblox scripter
-*  ✔️ Currently in the Philippines
+*  📂 Roblox developer
+*  📂 Roblox exploiter
 *  ✏️ My favorite editor is [VS Code](https://code.visualstudio.com/)
+*  ⛏️ Minecraft developer
 </a> 
 <p align="center">
   <a href="https://github.com/MrSPeeDy0">
