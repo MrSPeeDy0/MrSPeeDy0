@@ -31,7 +31,7 @@
     <img src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-lua.png?raw=true" width="50" height="36" alt="Lua" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-python.png?raw=true" width="46" height="36" alt="Python" />
+    <img src="https://github.com/MrSPeeDy0/DS-images/blob/main/DS-image-python.png?raw=true" width="44" height="36" alt="Python" />
   </a>
   <a href="https://github.com/MrSPeeDy0/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MrSPeeDy0/Batch-files-win-11/blob/main/Assets/Images/bat-file.png?raw=true" width="40" height="36" alt="Batch files" />
