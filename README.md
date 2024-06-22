@@ -10,7 +10,6 @@
 
 ### I'm MrSPeeDy0 (Ultra)
 
-* 🧑 17 y/o
 * ✝️ Christian
 * 📂 Roblox developer
 * 📂 Roblox exploiter
